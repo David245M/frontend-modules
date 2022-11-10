@@ -1,0 +1,4 @@
+[submodule "src/components-module"]
+	path = src/components-module
+	url = https://github.com/David245M/components-module
+  branch=master
